@@ -37,3 +37,7 @@ Cytoscape 3.7.2 for analysis of locus clustering:
 https://cytoscape.org/
 install clustermaker2 plugin:
 -> Apps -> App Manager -> search for clustermaker2, then install
+
+Reference HMM files:
+https://www.kerfeldlab.org/uploads/2/6/6/7/26671774/reference_data.zip
+
